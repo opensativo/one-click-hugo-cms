@@ -2,7 +2,7 @@
 title: Software de Gestão Escolar
 subtitle: A educação agora é a distância, descubra tudo que te oferece o
   Xklusivo e cumpra seu plano curricular de forma fácil, intuitiva e efectiva.
-image: img/smartmockups_kbi29zv0.png
+image: img/home-jumbotron.png
 blurb:
   heading: Why Kaldi?
   text: Kaldi is the coffee store for everyone who believes that great coffee
